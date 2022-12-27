@@ -38,14 +38,14 @@ bcrypt = ["bcrypt"]
 
 [[package]]
 name = "djangorestframework"
-version = "3.10.0"
+version = "3.10.3"
 description = "Web APIs for Django, made easy."
 category = "main"
 optional = false
 python-versions = ">=3.5"
 files = [
-    {file = "djangorestframework-3.10.0-py3-none-any.whl", hash = "sha256:bd389598d052fb79a68904eff35d34303118b5c2abefa65329b5f1a07b571ce1"},
-    {file = "djangorestframework-3.10.0.tar.gz", hash = "sha256:1f274ebbb930dfa709751fac31b2332b2e662303f8c66d7eacea534702611e34"},
+    {file = "djangorestframework-3.10.3-py3-none-any.whl", hash = "sha256:5488aed8f8df5ec1d70f04b2114abc52ae6729748a176c453313834a9ee179c8"},
+    {file = "djangorestframework-3.10.3.tar.gz", hash = "sha256:dc81cbf9775c6898a580f6f1f387c4777d12bd87abf0f5406018d32ccae71090"},
 ]
 
 [[package]]
@@ -75,4 +75,4 @@ files = [
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.9"
-content-hash = "006676d5822006d5af69878aa5acf38a9e8c27e09809c7426479d02e47e1289c"
+content-hash = "62acf9929704ef36981bfb9d910b7df4131db37c86b392f439616b0788436c84"
